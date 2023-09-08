@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\nhedg\source\repos\LetterFindGame\LetterFindGame\main.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nhedg\source\repos\LetterFindGame\LetterFindGame\main.cpp(31,11): warning C4553: '==': result of expression not used; did you intend '='?
+  LetterFindGame.vcxproj -> C:\Users\nhedg\source\repos\LetterFindGame\x64\Debug\LetterFindGame.exe
